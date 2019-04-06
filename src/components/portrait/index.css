@@ -1,0 +1,13 @@
+.card.shadow {
+    width: 200px;
+    height: 235px;
+}
+
+.card:hover {
+    background-color: red;
+    opacity: 0.5;
+}
+img {
+    height: 200px;
+
+}
